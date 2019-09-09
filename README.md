@@ -1,4 +1,4 @@
-# Ceasars_Cyphr
+# Caesars_Cipher
 A tool to decode Caesar's cypher. The idea is a simple shifting of the keys back to decode a mesage. 
 
 ### Dev Env
